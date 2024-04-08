@@ -14,3 +14,6 @@ Maybe I did something wrong while use nltk.
 
 Code on collab
 https://colab.research.google.com/drive/1d34HKGxKXAqdnWmBolJSz4whCvkoRFLW?usp=sharing
+
+Model
+https://drive.google.com/file/d/1-DeVD5kS9P7-4HxYQB1MFOn-GvAewV8o/view?usp=sharing
