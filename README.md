@@ -11,3 +11,6 @@
 In my opinion the "SpaCy" were better then nltk because it took less time for get the results and code. And nltk finded only two criterion while "SpaCy" more 10 criterion in the same text.
 
 Maybe I did something wrong while use nltk.
+
+Code on collab
+https://colab.research.google.com/drive/1d34HKGxKXAqdnWmBolJSz4whCvkoRFLW?usp=sharing
